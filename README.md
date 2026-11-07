@@ -6,9 +6,9 @@
 
 ## 다운로드 및 실행
 
-1. Releases에서 `WebtoonForge-v0.5-preview.1-win-x64-portable.zip`을 받습니다.
+1. Releases에서 [Windows x64 포터블 ZIP](https://github.com/sogwangsang/WebtoonForge/releases/download/v0.5-preview.2/WebtoonForge-v0.5-preview.2-win-x64-portable-singlefile.zip)을 받습니다.
 2. 쓰기 권한이 있는 폴더에 ZIP 전체를 풉니다.
-3. `WebtoonForge.Poc.exe`를 실행합니다. 별도 설치나 .NET SDK 설치는 필요 없습니다.
+3. `WebtoonForge.exe`를 실행합니다. 별도 설치나 .NET SDK 설치는 필요 없습니다.
 4. **이미지로 시작**으로 새 원고를 만들거나 **도움말 → 웹툰 예제 열기**로 편집을 체험합니다.
 
 ## 주요 기능
@@ -22,4 +22,4 @@
 
 Windows x64용 개발 프리뷰입니다. 실행 파일은 코드 서명되지 않았으며 깨끗한 별도 Windows 환경은 아직 검증하지 않았습니다. 내보내기 기본값은 **고화질 원본 보관 · PNG**입니다. 스마트 분할을 끄면 한 장으로 저장하며, 선택한 형식이나 이미지 크기 한도를 넘으면 안내가 표시됩니다.
 
-동봉된 예제는 편집 검증용으로 만든 가상 원고입니다. 런타임과 이미지 라이브러리 고지는 ZIP 안의 `THIRD_PARTY_NOTICES.md`와 `licenses/`에서 확인할 수 있습니다.
+동봉된 예제는 편집 검증용으로 만든 가상 원고입니다. 런타임과 이미지 라이브러리 고지는 ZIP 안의 `licenses/`에서 확인할 수 있습니다.
